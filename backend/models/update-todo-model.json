@@ -1,0 +1,34 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "title": "group",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "gender": {
+      "type": "string"
+    },
+    "email": {
+      "type": "string"
+    },
+    "mobile": {
+      "type": "string"
+    },
+    "dueDate": {
+      "type": "string"
+    },
+    "done": {
+      "type": "boolean"
+    }
+  },
+  "required": [
+    "name",
+    "mobile",
+    "gender",
+    "email",
+    "dueDate",
+    "done"
+  ],
+  "additionalProperties": false
+}

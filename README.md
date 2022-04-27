@@ -1,3 +1,17 @@
+# Demo
+
+
+
+Login:
+
+![Alt text](images/login.png?raw=true "Image 1")
+
+
+Main:
+
+![Alt text](images/main.png?raw=true "Image 2")
+
+
 # Serverless CONTACT
 
 To implement this project, you need to implement a simple CONTACT application using AWS Lambda and Serverless framework. Search for all comments starting with the `CONTACT:` in the code to find the placeholders that you need to implement.
@@ -262,18 +276,5 @@ npm run start
 ```
 
 This should start a development server with the React application that will interact with the serverless CONTACT application.
-
-# Demo
-
-
-
-Login:
-
-![Alt text](images/login.png?raw=true "Image 1")
-
-
-Main:
-
-![Alt text](images/main.png?raw=true "Image 2")
 
 
